@@ -8,7 +8,7 @@ The WeArePlanet Payment plugin wraps around the WeArePlanet API. This library fa
 ## Requirements
 
 - PHP 7.4 - 8.1
-- Shopware 6.4.0.x - 6.4.18.x
+- Shopware 6.4.0.x - 6.4.20.x
 
 ## Installation
 
@@ -61,7 +61,7 @@ tail -f var/log/weareplanet_payment*.log
 
 ## Documentation
 
-[Documentation](https://plugin-documentation.weareplanet.com/weareplanet/shopware-6-4/4.0.54/docs/en/documentation.html)
+[Documentation](https://plugin-documentation.weareplanet.com/weareplanet/shopware-6-4/4.0.55/docs/en/documentation.html)
 
 ## License
 
