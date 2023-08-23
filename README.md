@@ -61,7 +61,7 @@ tail -f var/log/weareplanet_payment*.log
 
 ## Documentation
 
-[Documentation](https://plugin-documentation.weareplanet.com/weareplanet/shopware-6-4/4.0.55/docs/en/documentation.html)
+[Documentation](https://plugin-documentation.weareplanet.com/weareplanet/shopware-6-4/4.0.56/docs/en/documentation.html)
 
 ## License
 
