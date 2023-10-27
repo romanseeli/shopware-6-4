@@ -1,6 +1,6 @@
 
 
-WeArePlanet Payment for Shopware 6
+WeArePlanet Payment for Shopware 6.4.*
 =============================
 
 The WeArePlanet Payment plugin wraps around the WeArePlanet API. This library facilitates your interaction with various services such as transactions.
@@ -62,6 +62,10 @@ tail -f var/log/weareplanet_payment*.log
 ## Documentation
 
 [Documentation](https://plugin-documentation.weareplanet.com/weareplanet/shopware-6-4/4.0.56/docs/en/documentation.html)
+
+## Support
+
+For support queries please contact [WeArePlanet support](mailto:support@datatrans.ch?subject=Support%20on%20Shopware%206.4%20-%20Topic%3A).
 
 ## License
 
